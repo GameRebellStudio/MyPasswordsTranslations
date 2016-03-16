@@ -3,175 +3,175 @@
 
     <!-- Application ##################################################################### -->
     <string name="app_name">My Passwords</string>
-    <string name="app_version">version <xliff:g id="VERSION">%1$s</xliff:g></string>
-    <string name="app_email_subject">My Passwords App version <xliff:g id="VERSION">%1$s</xliff:g></string>
-    <string name="app_description">A secure and easy to use password manager for Android devices</string>
-    <string name="app_download_message">Get it now for free from Google Play store</string>
+    <string name="app_version">verze <xliff:g id="VERSION">%1$s</xliff:g></string>
+    <string name="app_email_subject">Verze aplikace My Passwords <xliff:g id="VERSION">%1$s</xliff:g></string>
+    <string name="app_description">Bezpečný a snadno použitelný správce hesel pro zařízení Android</string>
+    <string name="app_download_message">Získejte nyní zdarma v Obchodě Google Play!</string>
     <!-- ################################################################################# -->
 
 
     <!-- General ######################################################################### -->
-    <string name="target_folder">Folder<xliff:g id="SPACE">\u0020</xliff:g></string>
-    <string name="target_file">File<xliff:g id="SPACE">\u0020</xliff:g></string>
-    <string name="current_location_folder">Location</string>
-    <string name="master_password">master password</string>
-    <string name="password_is_too_short">Password is too short</string>
-    <string name="passwords_not_matching">Passwords are not matching</string>
-    <string name="password_not_correct">The password is not correct</string>
-    <string name="required">Required</string>
-    <string name="title">Title</string>
-    <string name="account">Account</string>
-    <string name="password">Password</string>
-    <string name="username">Username</string>
-    <string name="website">Website</string>
-    <string name="description">Description</string>
-    <string name="list_is_empty">There are no entries</string>
-    <string name="last_updated">Last updated</string>
+    <string name="target_folder">Složka<xliff:g id="SPACE">\u0020</xliff:g></string>
+    <string name="target_file">Soubor<xliff:g id="SPACE">\u0020</xliff:g></string>
+    <string name="current_location_folder">Umístění</string>
+    <string name="master_password">hlavní heslo</string>
+    <string name="password_is_too_short">Heslo je příliš krátké</string>
+    <string name="passwords_not_matching">Hesla se neshodují</string>
+    <string name="password_not_correct">Špatné heslo</string>
+    <string name="required">Povinné</string>
+    <string name="title">Název</string>
+    <string name="account">Účet</string>
+    <string name="password">Heslo</string>
+    <string name="username">Uživatelské jméno</string>
+    <string name="website">Webová stránka</string>
+    <string name="description">Popis</string>
+    <string name="list_is_empty">Nejsou zde žádná hesla</string>
+    <string name="last_updated">Naposledy aktualizováno</string>
     <!-- ################################################################################# -->
 
 
     <!-- Buttons ######################################################################### -->
-    <string name="button_register">REGISTER</string>
-    <string name="button_enter">ENTER</string>
-    <string name="button_upgrade_now">UPGRADE NOW</string>
-    <string name="button_update">UPDATE</string>
+    <string name="button_register">REGISTROVAT</string>
+    <string name="button_enter">VSTOUPIT</string>
+    <string name="button_upgrade_now">UPGRADOVAT NYNÍ</string>
+    <string name="button_update">AKTUALIZOVAT</string>
     <!-- ################################################################################# -->
 
 
     <!-- Activities ###################################################################### -->
     <!-- welcome -->
-    <string name="welcome_info_title">Welcome to My Passwords</string>
-    <string name="welcome_info_first"><xliff:g id="LINE_FEEDS">\n\n\n</xliff:g>A secure and easy to use password manager for your Android device</string>
-    <string name="welcome_info_second"><xliff:g id="LINE_FEEDS">\n\n\n</xliff:g><xliff:g id="BULLET">\u2022</xliff:g> This application was designed to help you store all your passwords easily and safely<xliff:g id="LINE_FEEDS">\n\n\n</xliff:g><xliff:g id="BULLET">\u2022</xliff:g> The only thing you have to do is to remember your master password</string>
-    <string name="welcome_info_third"><xliff:g id="LINE_FEEDS">\n\n\n</xliff:g><xliff:g id="BULLET">\u2022</xliff:g> Please note that if the master password is lost the stored data cannot be recovered because of the missing sync option<xliff:g id="LINE_FEEDS">\n\n\n</xliff:g><xliff:g id="BULLET">\u2022</xliff:g> It is strongly recommended that you backup your data at regular intervals</string>
+    <string name="welcome_info_title">Vítejte v My Passwords!</string>
+    <string name="welcome_info_first"><xliff:g id="LINE_FEEDS">\n\n\n</xliff:g>Bezpečný a snadno použitelný správce hesel pro zařízení Android</string>
+    <string name="welcome_info_second"><xliff:g id="LINE_FEEDS">\n\n\n</xliff:g><xliff:g id="BULLET">\u2022</xliff:g> Tato aplikace byla navržena tak, aby Vám pomohla uložit všechna Vaše hesla snadno a bezpečně<xliff:g id="LINE_FEEDS">\n\n\n</xliff:g><xliff:g id="BULLET">\u2022</xliff:g> Jediné, co musíte udělat, je zapamatovat si své hlavní heslo</string>
+    <string name="welcome_info_third"><xliff:g id="LINE_FEEDS">\n\n\n</xliff:g><xliff:g id="BULLET">\u2022</xliff:g> Vezměte prosím na vědomí, že v případě zapomenutí hlavního hesla nebude možné obnovit uložená data, kvůli chybějící možnosti synchronizace<xliff:g id="LINE_FEEDS">\n\n\n</xliff:g><xliff:g id="BULLET">\u2022</xliff:g> Důrazně doporučujeme zálohovat svá data v pravidelných intervalech</string>
     <!-- upgrade -->
-    <string name="upgrade_thank_you">Thank you for purchasing the PRO version.</string>
-    <string name="upgrade_title_list">By purchasing the PRO version you:</string>
-    <string name="upgrade_features_list"><xliff:g id="SPACE_AND_BULLET">\u0020\u2022</xliff:g> Unlock the csv import &amp; export features<xliff:g id="LINE_FEED">\n</xliff:g><xliff:g id="SPACE_AND_BULLET">\u0020\u2022</xliff:g> Unlock the auto backup feature<xliff:g id="LINE_FEED">\n</xliff:g><xliff:g id="SPACE_AND_BULLET">\u0020\u2022</xliff:g> Unlock the theme setting<xliff:g id="LINE_FEED">\n</xliff:g><xliff:g id="SPACE_AND_BULLET">\u0020\u2022</xliff:g> Show your loyalty to the developer<xliff:g id="LINE_FEED">\n</xliff:g><xliff:g id="SPACE_AND_BULLET">\u0020\u2022</xliff:g> Accept the following<xliff:g id="SPACE">\u0020</xliff:g></string>
-    <string name="upgrade_terms">terms</string>
+    <string name="upgrade_thank_you">Děkujeme Vám za zakoupení PRO verze.</string>
+    <string name="upgrade_title_list">Zakoupením PRO verze:</string>
+    <string name="upgrade_features_list"><xliff:g id="SPACE_AND_BULLET">\u0020\u2022</xliff:g> Odekmnete možnosti importu &amp exportu cvs souborů<xliff:g id="LINE_FEED">\n</xliff:g><xliff:g id="SPACE_AND_BULLET">\u0020\u2022</xliff:g> Odemknete funkci automatického zálohování<xliff:g id="LINE_FEED">\n</xliff:g><xliff:g id="SPACE_AND_BULLET">\u0020\u2022</xliff:g> Odemknete nastavení motivu<xliff:g id="LINE_FEED">\n</xliff:g><xliff:g id="SPACE_AND_BULLET">\u0020\u2022</xliff:g> Ukážete vývojáři svou věrnost<xliff:g id="LINE_FEED">\n</xliff:g><xliff:g id="SPACE_AND_BULLET">\u0020\u2022</xliff:g> Přijímáte následující<xliff:g id="SPACE">\u0020</xliff:g></string>
+    <string name="upgrade_terms">podmínky</string>
     <!-- change master password -->
-    <string name="change_mp_old_master_password">old master password</string>
-    <string name="change_mp_new_master_password">new master password</string>
+    <string name="change_mp_old_master_password">staré hlavní heslo</string>
+    <string name="change_mp_new_master_password">nové hlavní heslo</string>
     <!-- ################################################################################# -->
 
 
     <!-- Menus ########################################################################### -->
-    <string name="menu_search">Search</string>
-    <string name="menu_overflow">More</string>
-    <string name="menu_appearance">Appearance</string>
-    <string name="menu_database">Database</string>
-    <string name="menu_security">Security</string>
-    <string name="menu_about">About</string>
-    <string name="menu_upgrade">Upgrade to PRO</string>
-    <string name="menu_new">New</string>
-    <string name="menu_edit">Edit</string>
-    <string name="menu_delete">Delete</string>
-    <string name="menu_color">Color</string>
+    <string name="menu_search">Hledat</string>
+    <string name="menu_overflow">Více</string>
+    <string name="menu_appearance">Vzhled</string>
+    <string name="menu_database">Databáze</string>
+    <string name="menu_security">Zabezpečení</string>
+    <string name="menu_about">O nás</string>
+    <string name="menu_upgrade">Upgradovat na PRO verzi</string>
+    <string name="menu_new">Nový</string>
+    <string name="menu_edit">Upravit</string>
+    <string name="menu_delete">Smazat</string>
+    <string name="menu_color">Barva</string>
     <!-- ################################################################################# -->
 
 
     <!-- Toasts ########################################################################## -->
-    <string name="toast_tap_again_to_exit">Tap again to exit</string>
-    <string name="toast_entry_deleted">Entry deleted</string>
-    <string name="toast_entries_deleted">Entries deleted</string>
-    <string name="toast_entry_saved">Entry saved</string>
-    <string name="toast_entry_discarded">Entry discarded</string>
-    <string name="toast_try_again_shortly">Please try again in few seconds</string>
-    <string name="toast_no_browser">No web browser application found</string>
-    <string name="toast_no_playstore">Google Play store app is not installed</string>
+    <string name="toast_tap_again_to_exit">Klepněte znovu pro ukončení</string>
+    <string name="toast_entry_deleted">Heslo smazáno</string>
+    <string name="toast_entries_deleted">Hesla smazána</string>
+    <string name="toast_entry_saved">Heslo uloženo</string>
+    <string name="toast_entry_discarded">Heslo zlikvidováno</string>
+    <string name="toast_try_again_shortly">Zkuste to prosím za pár sekund znovu</string>
+    <string name="toast_no_browser">Nebyl nalezen žádný webový prohlížeč</string>
+    <string name="toast_no_playstore">Obchod Google Play není nainstalován</string>
     <string name="toast_tap_to_copy_text">Tap on the text view to copy the content</string>
-    <string name="toast_copied_to_clipboard">Copied to clipboard</string>
-    <string name="toast_master_password_updated">Successfully updated master password</string>
-    <string name="toast_master_password_not_updated">Failed to update master password</string>
-    <string name="toast_storage_permission_granted">Permission granted</string>
-    <string name="toast_storage_permission_denied">Permission denied. Cannot read or write files.</string>
-    <string name="toast_no_file_selected">No file was selected</string>
-    <string name="toast_successful_backup">Successfully created backup</string>
-    <string name="toast_successful_restore">Successfully restored database</string>
-    <string name="toast_error_restore">Failed to restore database</string>
-    <string name="toast_successful_csv_export">Successfully exported csv file</string>
-    <string name="toast_successful_csv_import">Successfully imported csv file</string>
-    <string name="toast_error_csv_import">Failed to import csv file</string>
-    <string name="toast_database_server_error">The database is not available at the moment.</string>
+    <string name="toast_copied_to_clipboard">Zkopírováno do schránky</string>
+    <string name="toast_master_password_updated">Hlavní heslo bylo úspěšně aktualizováno</string>
+    <string name="toast_master_password_not_updated">Nepodařilo se aktualizovat hlavní heslo</string>
+    <string name="toast_storage_permission_granted">Oprávnění uděleno</string>
+    <string name="toast_storage_permission_denied">Přístup odepřen. Nelze číst ani zapisovat soubory.</string>
+    <string name="toast_no_file_selected">Nebyl vybrán žádný soubor</string>
+    <string name="toast_successful_backup">Záloha úspěšně vytvořena</string>
+    <string name="toast_successful_restore">Databáze úspěšně obnovena</string>
+    <string name="toast_error_restore">Nepodařilo se obnovit databázi</string>
+    <string name="toast_successful_csv_export">Úspěšně exportován cvs soubor</string>
+    <string name="toast_successful_csv_import">Úspěšně importován cvs soubor</string>
+    <string name="toast_error_csv_import">Nepodařilo se importovat cvs soubor</string>
+    <string name="toast_database_server_error">Databáze není v tuto chvíli k dispozici.</string>
     <!-- ################################################################################# -->
 
 
     <!-- Dialogs ######################################################################### -->
     <string name="dialog_button_ok">OK</string>
-    <string name="dialog_button_continue">Continue</string>
-    <string name="dialog_button_cancel">Cancel</string>
-    <string name="dialog_button_delete">Delete</string>
-    <string name="dialog_title_restore_backup">Restore backup?</string>
-    <string name="dialog_title_import_csv">Import csv?</string>
-    <string name="dialog_title_change_master_password">Change master password?</string>
-    <string name="dialog_msg_entries_will_be_deleted">All current entries will be deleted.</string>
-    <string name="dialog_msg_changing_master_password">By changing the master password you will not be able to restore database backups that were created with the current master password.</string>
-    <string name="dialog_msg_delete_previous_password">Delete previous password?</string>
-    <string name="dialog_msg_delete_selected_entries">Delete selected entries?</string>
-    <string name="dialog_msg_delete_entry">Delete entry?</string>
-    <string name="dialog_msg_cannot_open_folder">The folder is not accessible.</string>
-    <string name="dialog_msg_error_occurred">An error occurred:\u0020</string>
-    <string name="dialog_msg_payload_failed">Payload verification failed.</string>
-    <string name="dialog_msg_cannot_read_file">The selected file cannot be read.</string>
-    <string name="dialog_msg_error_writing_file">An error occurred while writing the file.</string>
-    <string name="dialog_msg_error_reading_file">An error occurred while reading the file.</string>
-    <string name="dialog_msg_invalid_csv_format">The selected csv file has an invalid format and cannot be imported.</string>
-    <string name="dialog_msg_invalid_db_format">The selected backup file was created using a different master password and cannot be restored.</string>
-    <string name="dialog_progress_please_wait">Please wait<xliff:g id="THREE_DOTS">&#8230;</xliff:g></string>
+    <string name="dialog_button_continue">Pokračovat</string>
+    <string name="dialog_button_cancel">Zrušit</string>
+    <string name="dialog_button_delete">Smazat</string>
+    <string name="dialog_title_restore_backup">Obnovit zálohu?</string>
+    <string name="dialog_title_import_csv">Importovat cvs?</string>
+    <string name="dialog_title_change_master_password">Změnit hlavní heslo?</string>
+    <string name="dialog_msg_entries_will_be_deleted">Všechna stávající hesla budou vymazána.</string>
+    <string name="dialog_msg_changing_master_password">Změnou hlavního hesla nebudete moci obnovit zálohy databáze, které byly vytvořeny se stávajícím hlavním heslem.</string>
+    <string name="dialog_msg_delete_previous_password">Vymazat předchozí heslo?</string>
+    <string name="dialog_msg_delete_selected_entries">Smazat vybrané položky?</string>
+    <string name="dialog_msg_delete_entry">Smazat položku?</string>
+    <string name="dialog_msg_cannot_open_folder">Složka není přístupná.</string>
+    <string name="dialog_msg_error_occurred">Došlo k chybě:\u0020</string>
+    <string name="dialog_msg_payload_failed">Payload ověření selhalo.</string>
+    <string name="dialog_msg_cannot_read_file">Vybraný soubor nelze přečíst.</string>
+    <string name="dialog_msg_error_writing_file"Při zápisu souboru došlo k chybě.</string>
+    <string name="dialog_msg_error_reading_file">Při čtení souboru došlo k chybě.</string>
+    <string name="dialog_msg_invalid_csv_format">Vybraný soubor CSV má neplatný formát a nelze ho importovat.</string>
+    <string name="dialog_msg_invalid_db_format">Vybraný soubor zálohy byl vytvořen během používání jiného hlavního hesla a nemůže být obnoven.</string>
+    <string name="dialog_progress_please_wait">Prosím čekejte<xliff:g id="THREE_DOTS">&#8230;</xliff:g></string>
     <!-- ################################################################################# -->
 
 
     <!-- Notifications ################################################################### -->
-    <string name="notification_text_app_running">Application is running</string>
+    <string name="notification_text_app_running">Aplikace je spuštěna</string>
     <!-- ################################################################################# -->
 
 
     <!-- Preferences ##################################################################### -->
     <!-- appearance -->
-    <string name="pref_appearance_title_sort_entries">Sort entries</string>
-    <string name="pref_appearance_sorting_choise_alpha">Alphabetically</string>
-    <string name="pref_appearance_sorting_choise_time">By date</string>
-    <string name="pref_appearance_sorting_choise_color">By color</string>
-    <string name="pref_appearance_title_show_passwords">Show passwords</string>
-    <string name="pref_appearance_summary_show_passwords">The passwords will be always shown so you do not have to explicitly press the eye icon</string>
-    <string name="pref_appearance_title_show_notification">Show notification icon</string>
-    <string name="pref_appearance_summary_show_notification">The notification icon will be shown to identify that the application is unlocked and running</string>
-    <string name="pref_appearance_title_change_theme">Change theme</string>
-    <string name="pref_appearance_theme_light">Light</string>
-    <string name="pref_appearance_theme_dark">Dark</string>
+    <string name="pref_appearance_title_sort_entries">Třídit hesla</string>
+    <string name="pref_appearance_sorting_choise_alpha">Abecedně</string>
+    <string name="pref_appearance_sorting_choise_time">Podle data</string>
+    <string name="pref_appearance_sorting_choise_color">Podle barvy</string>
+    <string name="pref_appearance_title_show_passwords">Zobrazovat hesla</string>
+    <string name="pref_appearance_summary_show_passwords">Hesla se budou vždy zobrazovat bez nutnosti klepnout na ikonu oka</string>
+    <string name="pref_appearance_title_show_notification">Zobrazovat notifikační ikonu</string>
+    <string name="pref_appearance_summary_show_notification">Notifikační ikona se bude zobrazovat pro určení zda je aplikace odemčená a spuštěná</string>
+    <string name="pref_appearance_title_change_theme">Změnit téma</string>
+    <string name="pref_appearance_theme_light">Světlé</string>
+    <string name="pref_appearance_theme_dark">Tmavé</string>
     <!-- database -->
-    <string name="pref_database_title_backup">Backup database</string>
-    <string name="pref_database_summary_backup">Create a backup of the encrypted database</string>
-    <string name="pref_database_title_restore">Restore database</string>
-    <string name="pref_database_summary_restore">Restore a backup of an encrypted database</string>
-    <string name="pref_database_title_auto_backup">Auto backup</string>
-    <string name="pref_database_summary_auto_backup">Creates a backup of the database each time you exit the application (maximum backup files kept 10)</string>
-    <string name="pref_database_title_auto_backup_folder">Destination folder</string>
-    <string name="pref_database_title_export">Export csv file</string>
-    <string name="pref_database_summary_export">Export the entries to a non-encrypted csv file</string>
-    <string name="pref_database_title_import">Import csv file</string>
-    <string name="pref_database_summary_import">Import entries from a non-encrypted csv file</string>
+    <string name="pref_database_title_backup">Zálohovat databázi</string>
+    <string name="pref_database_summary_backup">Vytvořit zálohu šifrované databáze</string>
+    <string name="pref_database_title_restore">Obnovit databázi</string>
+    <string name="pref_database_summary_restore">Obnovit zálohu šifrované databáze</string>
+    <string name="pref_database_title_auto_backup">Automatické zálohování</string>
+    <string name="pref_database_summary_auto_backup">Vytvoří zálohu databáze při každém ukončení aplikace (maximální počet zálohovaných souborů 10)</string>
+    <string name="pref_database_title_auto_backup_folder">Cílová složka</string>
+    <string name="pref_database_title_export">Export do cvs souboru</string>
+    <string name="pref_database_summary_export">Exportovat položky do nešifrovaného cvs souboru</string>
+    <string name="pref_database_title_import">Import z cvs souboru</string>
+    <string name="pref_database_summary_import">Importovat položky z nešifrovaného cvs souboru</string>
     <!-- security -->
-    <string name="pref_security_title_change_password">Change master password</string>
-    <string name="pref_security_title_fast_enter">Fast enter</string>
-    <string name="pref_security_summary_fast_enter">Makes it faster to enter the application without having to tap the ENTER button if the master password is correct</string>
+    <string name="pref_security_title_change_password">Změnit hlavní heslo</string>
+    <string name="pref_security_title_fast_enter">Rychlý vstup</string>
+    <string name="pref_security_summary_fast_enter">Umožňuje rychlejší vstup do aplikace, aniž by jste museli klepnout na tlačítko ENTER, pokud zadáte hlavní heslo správně</string>
     <string name="pref_security_title_auto_exit">Auto exit</string>
-    <string name="pref_security_summary_auto_exit">The application will automatically exit when the screen turns off</string>
+    <string name="pref_security_summary_auto_exit">Aplikace bude automaticky ukončena, když se vypne displej</string>
     <!-- about -->
-    <string name="pref_about_title_contact">Report a bug</string>
-    <string name="pref_about_title_support">Rate and review</string>
-    <string name="pref_about_title_more_apps">More apps</string>
-    <string name="pref_about_title_share">Tell your friends</string>
-    <string name="pref_about_title_licenses">Open source licenses</string>
-    <string name="pref_about_title_build_version">Build version</string>
+    <string name="pref_about_title_contact">Nahlásit chybu</string>
+    <string name="pref_about_title_support">Hodnotit a recenzovat</string>
+    <string name="pref_about_title_more_apps">Více aplikací</string>
+    <string name="pref_about_title_share">Řekněte o aplikaci svým přátelům</string>
+    <string name="pref_about_title_licenses">Licence Open source</string>
+    <string name="pref_about_title_build_version">Verze sestavení</string>
     <!-- ################################################################################# -->
 
 
     <!-- Preference Categories ########################################################### -->
-    <string name="pref_category_appearance">APPEARANCE</string>
+    <string name="pref_category_appearance">VZHLED</string>
     <string name="pref_category_theme"><xliff:g id="PRO">[PRO]</xliff:g> THEME</string>
-    <string name="pref_category_database">DATABASE</string>
-    <string name="pref_category_auto_backup"><xliff:g id="PRO">[PRO]</xliff:g> AUTO BACKUP</string>
+    <string name="pref_category_database">DATABÁZE</string>
+    <string name="pref_category_auto_backup"><xliff:g id="PRO">[PRO]</xliff:g> AUTOMATICKÉ ZÁLOHOVÁNÍ</string>
     <string name="pref_category_csv"><xliff:g id="PRO">[PRO]</xliff:g> CSV</string>
     <!-- ################################################################################# -->
 
